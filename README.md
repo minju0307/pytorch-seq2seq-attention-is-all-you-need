@@ -1,8 +1,4 @@
-# NLP_code_assignment2 (Attention is All You Need) (제출)
-
-생성 일시: 2022년 10월 28일 오후 5:11
-진행: 진행
-태그: class
+# NLP_code_assignment2 (Attention is All You Need) 
 
 ## Encoder
 
